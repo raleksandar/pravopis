@@ -1,0 +1,8 @@
+{
+  "name": "pravopis",
+  "version": "1.0.0",
+  "description": "Set of helper string manipulation functions for handling Serbian language orthography rules correctly",
+  "main": "index.js",
+  "author": "Aleksandar Ružičić <aleksandar@ruzicic.info>",
+  "license": "MIT"
+}
