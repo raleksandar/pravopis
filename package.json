@@ -4,5 +4,9 @@
   "description": "Set of helper string manipulation functions for handling Serbian language orthography rules correctly",
   "main": "index.js",
   "author": "Aleksandar Ružičić <aleksandar@ruzicic.info>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raleksandar/pravopis.git"
+  },
   "license": "MIT"
 }
