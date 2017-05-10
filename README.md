@@ -45,9 +45,9 @@ Transliterates string `s` from Serbian Cyrillic to Serbian Latin alphabet.
 
 Examples:
 ```js
-pravopis.toCyrillic('pravopis'); // правопис
-pravopis.toCyrillic('injekcija, njiva'); // инјекција, њива
-pravopis.toCyrillic('patlidžan, nadživeti'); // патлиџан, надживети
+pravopis.toLatin('правопис'); // pravopis
+pravopis.toLatin('инјекција, њива'); // injekcija, njiva
+pravopis.toLatin('патлиџан, надживети'); // patlidžan, nadživeti
 ```
 
 ### `pravopis.toVocative(name)`
